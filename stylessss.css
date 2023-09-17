@@ -41,7 +41,7 @@ p {
 
 
 /* Skills Section */
-#skills {
+#Links {
     background-color: #fef6e4; 
     padding: 20px;
     text-align: center;
@@ -66,12 +66,16 @@ li {
 }
 
 a {
-    color: #8f9779; 
+    color: #1E90FF; 
     text-decoration: none;
     font-weight: bold; 
 }
 
+.underlined-link {
+    text-decoration: underline;
+  }
+
 a:hover {
     text-decoration: underline;
-    color: #8f9779; 
+    color: #1E90FF; 
 }
